@@ -1,4 +1,4 @@
-omniauth-venmo--twitter--facebook-sample-application
+Devise with omniauth(venmo,twitter,facebook)-sample-application
 ====================================================
 
 
